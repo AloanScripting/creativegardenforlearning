@@ -1,0 +1,11 @@
+body {
+  
+  background: url('./assets/farmbackground.jpg') no-repeat center #eee;
+  background-size:fill;
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
